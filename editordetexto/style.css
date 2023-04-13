@@ -1,0 +1,11 @@
+.negrito {
+    font-weight: bold;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
