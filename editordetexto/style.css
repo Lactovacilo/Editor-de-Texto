@@ -1,3 +1,8 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 .negrito {
     font-weight: bold;
 }
@@ -8,4 +13,8 @@
 
 .sublinhado {
     text-decoration: underline;
+}
+
+.italico {
+    font-style: italic;
 }
